@@ -42,6 +42,4 @@ Também tenho interesse em desenvolvimento de software e na aplicação de tecno
 
 Projeto desenvolvido em Python para acompanhar processos logísticos, organizar informações e facilitar a visualização de dados operacionais.
 
-**Projetos acadêmicos**
 
-Projetos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas, envolvendo modelagem de banco de dados, programação e desenvolvimento web.
