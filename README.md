@@ -1,41 +1,64 @@
-# 👋 Olá, eu sou o Davi Souza!
 
-### 📊 Business Intelligence | Data Analytics | Power BI | SQL | Python
+<div align="center">
 
-Transformando **dados em informações** e informações em **decisões**.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=23&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=700&height=90&lines=DAVI+SOUZA" alt="Davi Souza" />
 
-## 🚀 Sobre mim
+<br>
 
-Tenho interesse em **Business Intelligence, Análise de Dados e Transformação Digital**, buscando desenvolver soluções que conectem tecnologia às necessidades dos negócios.
+<sub>Business Intelligence · Data Analytics · Desenvolvimento de Software</sub>
 
-Atualmente, estou desenvolvendo projetos utilizando **Power BI, SQL e Python**, explorando análise de dados, automação e visualização de informações.
+<br>
 
-Meu objetivo é utilizar dados para identificar padrões, gerar insights e contribuir para decisões mais inteligentes e eficientes.
+<sub>Python · SQL · Power BI · GitHub</sub>
 
-## 🛠️ Tecnologias
+</div>
 
-📊 **Business Intelligence:** Power BI  
-🗄️ **Dados:** SQL • MySQL  
-🐍 **Programação:** Python  
-🌐 **Desenvolvimento:** HTML • CSS  
-🔧 **Ferramentas:** Git • GitHub  
-🤖 **IA:** GPT • Claude
+---
 
-## 📌 Projetos em destaque
+### Sobre mim
 
- **Monitor de Retira Fácil** — Projeto em Python voltado ao monitoramento de processos logísticos, facilitando o acompanhamento da operação e a visualização de informações.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em **Business Intelligence, Análise de Dados e Transformação Digital**.
 
-<!--
-**davisouza1202-hub/davisouza1202-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou desenvolvendo conhecimentos em Python, SQL e Power BI, explorando maneiras de utilizar dados para identificar padrões, automatizar processos e apoiar decisões.
 
-Here are some ideas to get you started:
+Também tenho interesse em desenvolvimento de software e na aplicação de tecnologias que tornem atividades do dia a dia mais simples e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias e ferramentas
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,html,css&theme=dark" alt="Python, MySQL, Git, GitHub, HTML e CSS" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+
+</div>
+
+### Projetos em destaque
+
+**Monitor de Retira Fácil**
+
+Projeto em Python voltado ao monitoramento de processos logísticos, facilitando o acompanhamento da operação e a visualização de informações.
+
+**Projetos acadêmicos**
+
+Desenvolvimento de atividades práticas envolvendo banco de dados, programação e desenvolvimento web durante a graduação em Análise e Desenvolvimento de Sistemas.
+
+### GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisouza1202-hub&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Dados, tecnologia e aprendizado contínuo.</sub>
+
+</div>
