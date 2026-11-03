@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=23&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=700&height=90&lines=DAVI+SOUZA" alt="Davi Souza" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=23&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=700&height=90&lines=DAVI+SOUZA" alt="Davi de Souza" />
 
 <br>
 
